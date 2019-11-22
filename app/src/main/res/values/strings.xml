@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">signoZodiacal</string>
+    <string name="buttonPrincipalCalcular">Calcular</string>
+    <string name="editTextNombre">Nombre</string>
+    <string name="editTextNumerodeCuenta">Número de cuenta</string>
+    <string name="editTextEmail">Correo electrónico</string>
+    <string name="editTextFechadeNacimiento">Fecha de nacimiento</string>
+    <string name="textViewEdad">Edad</string>
+    <string name="textViewHoroscopo">Horoscopo</string>
+    <string name="imageViewHoroscopo">Horoscopo</string>
+</resources>
